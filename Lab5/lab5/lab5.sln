@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab5", "lab5\lab5.vcxproj", "{A3CB41D5-6F4B-4F4A-885A-1E15519A3F9A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LocalFreestore", "LocalFreestore\LocalFreestore.vcxproj", "{38F2551D-4556-4BC6-A554-5791724A082B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectFactory", "ObjectFactory\ObjectFactory.vcxproj", "{4E3B1946-3BBD-40D4-944B-00092F3F6049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CB41D5-6F4B-4F4A-885A-1E15519A3F9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3CB41D5-6F4B-4F4A-885A-1E15519A3F9A}.Debug|Win32.Build.0 = Debug|Win32
+		{A3CB41D5-6F4B-4F4A-885A-1E15519A3F9A}.Release|Win32.ActiveCfg = Release|Win32
+		{A3CB41D5-6F4B-4F4A-885A-1E15519A3F9A}.Release|Win32.Build.0 = Release|Win32
+		{38F2551D-4556-4BC6-A554-5791724A082B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38F2551D-4556-4BC6-A554-5791724A082B}.Debug|Win32.Build.0 = Debug|Win32
+		{38F2551D-4556-4BC6-A554-5791724A082B}.Release|Win32.ActiveCfg = Release|Win32
+		{38F2551D-4556-4BC6-A554-5791724A082B}.Release|Win32.Build.0 = Release|Win32
+		{4E3B1946-3BBD-40D4-944B-00092F3F6049}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E3B1946-3BBD-40D4-944B-00092F3F6049}.Debug|Win32.Build.0 = Debug|Win32
+		{4E3B1946-3BBD-40D4-944B-00092F3F6049}.Release|Win32.ActiveCfg = Release|Win32
+		{4E3B1946-3BBD-40D4-944B-00092F3F6049}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
