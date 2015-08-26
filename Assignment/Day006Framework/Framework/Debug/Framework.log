@@ -1,4 +1,4 @@
-﻿Build started 26/08/2015 3:32:27 PM.
+﻿Build started 26/08/2015 3:49:19 PM.
      1>Project "C:\Users\Camzakii\Documents\GitHub\GP VS 2015\Assignment\Day006Framework\Framework\Framework.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Camzakii\Documents\GitHub\GP VS 2015\Assignment\Day006Framework\\SDL\SDL2-2.0.3\include\\" /I"C:\Users\Camzakii\Documents\GitHub\GP VS 2015\Assignment\Day006Framework\\SDL\SDL2_image-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
@@ -22,4 +22,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.95
+Time Elapsed 00:00:01.12

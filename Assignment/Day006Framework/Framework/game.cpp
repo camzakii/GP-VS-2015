@@ -108,6 +108,7 @@ Game::Initialise()
 	m_pPlayer->Initialise(pPlayerSprite);
 	m_pPlayer->SetPositionX(100.0f);
 	m_pPlayer->SetPositionY(390.0f);
+
 	
 	// Load the alien ship sprite
 	
